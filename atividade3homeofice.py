@@ -1,8 +1,8 @@
-valor = float(input("Digite um valor: ")) # pede um valor ao usuário e converte para float
+valor = float(input("Digite um valor: ")) 
 
-if valor > 0: # verifica se o valor é maior que zero
+if valor > 0: 
     print("O valor é positivo!")
-elif valor < 0: # verifica se o valor é menor que zero
+elif valor < 0: 
     print("O valor é negativo!")
-else: # caso contrário, o valor é igual a zero
+else: 
     print("O valor é igual a zero!")
