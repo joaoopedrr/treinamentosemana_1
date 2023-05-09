@@ -5,6 +5,7 @@ tentativas = 0
 
 print("Bem-vindo! Tente adivinhar o número que estou pensando.")
 
+
 while True:
     palpite = int(input("Digite seu palpite: "))
     tentativas += 1
